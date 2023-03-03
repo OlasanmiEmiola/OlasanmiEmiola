@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi! My name is Olasanmi Emiola 
+
+
+
+###       **I am Data Analyst**
+##### 🔭  I am currently building my portfolio
+##### 🤔  I am looking for help with understanding R and Phython Languages 
+##### 👯  I'm looking for mentorship and accountability partner
+##### 📫  You can reach me via (https://twitter.com/emiola_olasanmi)
+##### 😄  Pronouns SHE/HER
+##### ⚡  Fun Fact: I am a fashion lover and indoor person 
 
 <!--
 **OlasanmiEmiola/OlasanmiEmiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
